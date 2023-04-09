@@ -49,3 +49,29 @@ git show
 git show cid
 git push
 git status
+
+
+
+
+
+
+mkdir sra1
+git status
+all command copy
+cat  command[D[D[D[D[D[D[D[D[D[D[D[D
+cat file1[D[D[D[D[D[D[D[D[D[C[C[C[C[C[C[C[C[C[C[D[D[D[D[D[D> file1[C(To create a file using cat command)
+ctrl + d (To save)
+
+cat file1 (To see file matter)
+
+cat >> file1 (To modified the existing file)
+sample msg
+sample msg1
+ctrl+d )[D(to save the file)
+
+VI (Editor)
+vi file1 (To createthe[D[D[D [C[Dthe[Cfile)
+type here your msg
+.......
+.......
+wq! (to save the file)
