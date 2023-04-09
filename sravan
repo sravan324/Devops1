@@ -1,0 +1,51 @@
+Git Commands
+
+git init (To initialise the empty Repository)
+
+git config --global user.name "Name"    (To create username)
+git config --global user.email "Email"     (To create email)
+
+git config --list  (to see username & email)
+
+git config --global --unset user.name (To remove username)
+git config --global --unset user.email 
+-----------------------------------------------------------------------------------
+
+touch file1 file2(To add new file)
+ls
+git status
+git add file1
+git status
+git commit -m "commit msg"
+git status
+git log
+git show
+git show cid
+-------------------------------------------------------------
+
+touch f1 f2 f3
+ls
+git status
+git add .
+git status
+git commit -m "commit msg"
+git status
+git log
+
+-----------------------------------------------------------------
+
+git clone https://github.com/sravan324/Devops.git
+ls
+cd Devops
+touch file1 file2(To add new file)
+ls
+git status
+git add file1
+git status
+git commit -m "commit msg"
+git status
+git log
+git show
+git show cid
+git push
+git status
